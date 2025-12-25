@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HouseManager AI - مدیریت هوشمند منزل",
+  "description": "یک برنامه پیشرفته برای مدیریت خرید خانه و هزینه‌های سوپرمارکت با قابلیت اسکن هوشمند محصول توسط هوش مصنوعی.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
